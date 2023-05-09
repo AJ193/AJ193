@@ -29,7 +29,7 @@ I am a Full-Stack developer and Fluent in multiple languages, frameworks, and te
 ## Get in touch 😄
 
 - My previous experience in few lines, meet me up to find more. - [Linkedin](https://www.linkedin.com/in/ghulam-shabbir-225264247/).
-- Here is my portfolio. - [MyPortfolio](https://github.com/AJ193/new-portfolio)
+- Here is my portfolio. - [MyPortfolio](https://aj193.github.io/new-portfolio/)
 - You can reach me on my email. - adeeltoi8899@gmail.com
 
 [![AJ193's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJ193)](https://github.com/AJ193/github-readme-stats)
