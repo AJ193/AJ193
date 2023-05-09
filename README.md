@@ -9,7 +9,7 @@
 
 ## About me
 
-I am a Full-Stack developer and Fluent in multiple languages, frameworks, and technologies to constantly learn new things. I have strong skills in Javascript,HTML and CSS such as Bootstrap etc. Currently I am full-stack student at [Microverse](https://www.microverse.org). I am a amibtious problem-solving type of guy, which is why coding is one of my passions.
+I am a Full-Stack developer and Fluent in multiple languages, frameworks, and technologies to constantly learn new things. I have strong skills in Javascript ,HTML and CSS such as Bootstrap etc. Currently I am full-stack student at [Microverse](https://www.microverse.org). I am a amibtious problem-solving type of guy, which is why coding is one of my passions.
 
 <div>
  <h2>My Skills</h2>
