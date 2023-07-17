@@ -1,3 +1,4 @@
+![logo](https://github.com/AJ193/AJ193/blob/main/Screenshot_20230717-144636~4.png)
 # Hello :wave: :technologist:
 <h2>I'm Ghulam Shabbir! </h2>
 <h3>Full-stack web developer. </h3>
